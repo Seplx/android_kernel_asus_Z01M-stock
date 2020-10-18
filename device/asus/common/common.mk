@@ -1,2 +1,1 @@
 TARGET_VENDOR=asus
-
