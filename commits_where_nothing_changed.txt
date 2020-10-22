@@ -1,0 +1,7 @@
+NEWEST COMMITS FIRST
+
+zenfone4_zd552kl.MR8-71.50.395.82
+zenfone4_zd552kl.JP_MR4-71.50.395.39
+zenfone4_zd552kl.MR1.3-12.40.273.128
+
+If I missed some please make a pull request or an issue mentioning them.
