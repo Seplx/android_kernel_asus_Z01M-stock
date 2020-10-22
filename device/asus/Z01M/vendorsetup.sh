@@ -27,6 +27,6 @@
 #  IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-add_lunch_combo Z01M-eng
-add_lunch_combo Z01M-userdebug
-add_lunch_combo Z01M-user
+add_lunch_combo {TARGET_PRODUCT}-eng
+add_lunch_combo {TARGET_PRODUCT}-userdebug
+add_lunch_combo {TARGET_PRODUCT}-user
